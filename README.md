@@ -3,13 +3,7 @@
 > **Galactic Shooter 2D**, Unity Oyun Motoru kullanılarak geliştirilmiş 2D arcade uzay savaş oyunudur. Oyuncu, düşman gemilerini yok ederek mümkün olduğunca yüksek skor elde etmeye çalışır.
 
 🎮 **Tarayıcıda Oyna (WebGL):**  
-:contentReference[oaicite:0]{index=0}
-
----
-
-## 📸 Oyun İçi Görseller
-
-<img width="1280" height="720" alt="Gameplay Screenshot" src="https://github.com/user-attachments/assets/YOUR_SCREENSHOT_ID" />
+[Galactic Shooter 2D](https://elifnurbeycan.itch.io/galactic-shooter-2d)
 
 ---
 
